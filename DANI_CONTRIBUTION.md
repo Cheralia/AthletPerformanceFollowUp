@@ -74,7 +74,7 @@ Create a `.env` file (in root or backend folder):
 
 ```env
 DATABASE_URL=your_postgresql_connection_string
-JWT_SECRET=
+JWT_SECRET=your_secret_key
 PORT=5000
 ```
 
